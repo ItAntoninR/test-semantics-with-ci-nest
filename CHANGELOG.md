@@ -1,6 +1,11 @@
 # [v1.3.0-qualif.4](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.3.0-qualif.3...v1.3.0-qualif.4) (2024-12-19)
 
 # [v1.3.0-qualif.3](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.3.0-qualif.2...v1.3.0-qualif.3) (2024-12-19)
+# [v1.3.0](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.2.0...v1.3.0) (2024-12-19)
+
+## ✨ New Features
+- [`f78867d`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/f78867d)  Update config of cors 
+- [`029c005`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/029c005)  Change port for API 
 
 ## 🐛 Bug Fixes
 - [`58dee69`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/58dee69)  Fix release bug 
