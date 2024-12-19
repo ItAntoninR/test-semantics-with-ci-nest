@@ -3,7 +3,7 @@ name: 🚀 Make release and deploy on FTP
 on:
   pull_request:
     types:
-      - closed
+      - merged
     branches:
       - main
       - qualif
