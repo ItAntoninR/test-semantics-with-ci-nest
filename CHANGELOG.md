@@ -1,3 +1,8 @@
+# [v1.0.2-qualif.2](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.2-qualif.1...v1.0.2-qualif.2) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`d970e4d`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/d970e4d)  Fix port
+
 # [v1.0.2-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.1...v1.0.2-qualif.1) (2024-12-19)
 
 ## 🐛 Bug Fixes
