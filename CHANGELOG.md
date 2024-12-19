@@ -1,3 +1,8 @@
+# [v1.1.1-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.1.0...v1.1.1-qualif.1) (2024-12-19)
+
+## 🔒 Security Issues
+- [`75c24ee`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/75c24ee) ️ Disable cors
+
 # [v1.1.0](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.1...v1.1.0) (2024-12-19)
 
 ## ✨ New Features
