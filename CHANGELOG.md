@@ -1,3 +1,8 @@
+# [v1.4.3-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.4.2...v1.4.3-qualif.1) (2024-12-19)
+
+## 🚑 Critical Hotfixes
+- [`85927bd`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/85927bd) ️ Change cors
+
 # [v1.4.2-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.4.1...v1.4.2-qualif.1) (2024-12-19)
 
 ## 🚑 Critical Hotfixes
