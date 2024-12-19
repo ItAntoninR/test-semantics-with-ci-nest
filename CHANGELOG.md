@@ -1,3 +1,11 @@
+# [v1.0.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.0...v1.0.1) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`3f7e2e3`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/3f7e2e3)  Remove useless package for releaserc 
+
+## 🔒 Security Issues
+- [`82bf32a`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/82bf32a) ️ Update security port
+
 # v1.0.0 (2024-12-19)
 
 ## ✨ New Features
