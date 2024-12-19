@@ -1,3 +1,8 @@
+# [v1.4.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.4.0...v1.4.1) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`87a4c57`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/87a4c57)  Fix bug for port api
+
 # [v1.4.1-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.4.0...v1.4.1-qualif.1) (2024-12-19)
 
 ## 🐛 Bug Fixes
