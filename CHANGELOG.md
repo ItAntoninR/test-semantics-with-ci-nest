@@ -1,3 +1,12 @@
+# [v1.0.1-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.0...v1.0.1-qualif.1) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`15f3750`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/15f3750)  Enable cors for api 
+
+
+
+## [1.0.1-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.0...v1.0.1-qualif.1) (2024-12-19)
+
 # v1.0.0 (2024-12-19)
 
 ## ✨ New Features
