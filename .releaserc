@@ -7,7 +7,7 @@
     }
   ],
   "ci": false,
-  "repositoryUrl": "https://github.com/ItAntoninR/semantic-gitmoji-release-test.git",
+  "repositoryUrl": "https://github.com/ItAntoninR/test-semantics-with-ci-nest.git",
   "plugins": [
     ["semantic-release-gitmoji", {
       "releaseRules": {
