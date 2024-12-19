@@ -1,0 +1,50 @@
+{
+  "branches": [
+    "main",
+    {
+      "name": "qualif",
+      "prerelease": true
+    }
+  ],
+  "ci": false,
+  "repositoryUrl": "https://github.com/ItAntoninR/semantic-gitmoji-release-test.git",
+  "plugins": [
+    ["semantic-release-gitmoji", {
+      "releaseRules": {
+        "major": ["💥", ":boom:"],
+        "minor": [
+          "✨", ":sparkles:",
+          "🎸", ":guitar:",
+          "🔥", ":fire:",
+          "✅", ":white_check_mark:",
+          "🎨", ":art:"
+        ],
+        "patch": [
+          "🐛", ":bug:",
+          "🚑", ":ambulance:",
+          "🔒", ":lock:",
+          "⬆️", ":arrow_up:",
+          "⬇️", ":arrow_down:",
+          "🔧", ":wrench:"
+        ]
+      }
+    }],
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "npm version ${nextRelease.version} --no-git-tag-version"
+      }
+    ],
+    "@semantic-release/git",
+    "@semantic-release/github",
+    [
+      "@semantic-release/npm",
+      {
+        "npmPublish": false,
+        "pkgRoot": "."
+      }
+    ]
+  ]
+}
