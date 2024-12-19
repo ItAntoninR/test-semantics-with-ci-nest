@@ -1,3 +1,9 @@
+# [v1.3.0-qualif.3](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.3.0-qualif.2...v1.3.0-qualif.3) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`58dee69`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/58dee69)  Fix release bug 
+- [`717bc7d`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/717bc7d)  Fix release
+
 # [v1.3.0-qualif.2](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.3.0-qualif.1...v1.3.0-qualif.2) (2024-12-19)
 
 ## ✨ New Features
