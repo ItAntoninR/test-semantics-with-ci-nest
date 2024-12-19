@@ -1,3 +1,11 @@
+# [v1.0.2-qualif.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.1...v1.0.2-qualif.1) (2024-12-19)
+
+## 🐛 Bug Fixes
+- [`28d9371`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/28d9371)  Fix ftp deploy version not working 
+
+## 🚑 Critical Hotfixes
+- [`b89a185`](https://github.com/ItAntoninR/test-semantics-with-ci-nest/commit/b89a185) ️ Change port for test
+
 # [v1.0.1](https://github.com/ItAntoninR/test-semantics-with-ci-nest/compare/v1.0.0...v1.0.1) (2024-12-19)
 
 ## 🐛 Bug Fixes
